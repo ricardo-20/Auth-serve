@@ -1,0 +1,4 @@
+- Excute proyect please excute following command line
+- npm install (install every packege and library of proyect)
+- tsc -m (translate code typescript to javascript)
+- nodemo dist (excute javascript code)
